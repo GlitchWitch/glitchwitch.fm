@@ -1,23 +1,28 @@
-You can catch glitchwitch.fm DJ or perform at the following;
+glitchwitch.fm/shows.txt
 
 == The Future ==
-- 27 Mar 2026 - 2100 - EDM @ The Attic
-- 04 Apr 2026 - ???? - TBA @ TBA
-- 10 Apr 2026 - 2300 - Emerge @ Secret Hideaway Pop-up
-- 11 Apr 2026 - 0100 - TBA @ just rite
-- 04 May 2026 - ???? - Elemental Festival Pre-Show @ TBA
+
+- 27 Mar 2026 - 2100 - The Attic
+- 04 Apr 2026 - ???? - Parlour
+- 10 Apr 2026 - 2300 - Hideaway
+- 11 Apr 2026 - 0100 - just rite
+- 04 May 2026 - ???? - Elemental Pre-Show
 
 == The Present ==
-- Every Wednesday - 7PM-LATE - DJ Practice & Flowjam @ (invite only)
+
+- EVERY WED - 1900 - DJ Practice & Flowjam
 
 == The Past ==
-- 06 Mar 2026 - 0400 - what do u see?  @ just rite
-- 14 Feb 2026 - 2300 - Emo Night @ The Pyramid
-- 06 Feb 2026 - 2300 - Femme First Fridays @ SkullSpace
-- 30 Jan 2026 - 0500 - good vibes only  @ just rite
+
+- 06 Mar 2026 - 0400 - just rite
+- 14 Feb 2026 - 2300 - The Pyramid
+- 06 Feb 2026 - 2300 - SkullSpace
+- 30 Jan 2026 - 0500 - just rite
 - 30 Jan 2026 - 2130 - Sprout Fest Winter Glow
-- 24 Jan 2026 - 0100 - JunctionX After Party @ SkullSpace
-- 16 Jan 2026 - 2200 - EDM @ The Attic
-- 05 Dec 2025 - 0100 - Apothecary Afters @ SkullSpace
+- 24 Jan 2026 - 0100 - JunctionX After Party
+- 16 Jan 2026 - 2200 - The Attic
+- 05 Dec 2025 - 0100 - Apothecary Afters
+
+== The Appendix ==
 
 > note: the past is listed in reverse chronology. dates are event start dates. if you read this text file and see me, tell me you checked it.
