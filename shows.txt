@@ -2,11 +2,10 @@ glitchwitch.fm/shows.txt
 
 == The Future ==
 
-- 27 Mar 2026 - 2100 - The Attic
-- 04 Apr 2026 - ???? - Parlour
+- 04 Apr 2026 - ???? - Parlour 12
 - 10 Apr 2026 - 2300 - Hideaway
 - 11 Apr 2026 - 0100 - just rite
-- 04 May 2026 - ???? - Elemental Pre-Show
+- 09 May 2026 - ???? - Elemental Pre-Show
 
 == The Present ==
 
@@ -14,6 +13,7 @@ glitchwitch.fm/shows.txt
 
 == The Past ==
 
+- 27 Mar 2026 - 2100 - The Attic
 - 06 Mar 2026 - 0400 - just rite
 - 14 Feb 2026 - 2300 - The Pyramid
 - 06 Feb 2026 - 2300 - SkullSpace
@@ -25,5 +25,5 @@ glitchwitch.fm/shows.txt
 
 == The Appendix ==
 
-> note: the past is listed in reverse chronology. dates are event start dates. if you read this text file and see me, tell me you checked it.
+> note: dates are event start dates. the past is listed in reverse chronology.  if you read this text file and see me, tell me you checked it.
 > booking: DM @glitchwitch.fm on IG or email hello <at> glitchwitch <dot> fm
