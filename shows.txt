@@ -2,9 +2,8 @@ glitchwitch.fm/shows.txt
 
 == The Future ==
 
-- 10 Apr 2026 - 23h00 - Hideaway
-- 11 Apr 2026 - 01h00 - just rite
-- 09 May 2026 - 21h00 - Elemental Pre-Show
+- 22 May 2026 - 21h00 - Tenjin Toronto 
+- 30 May 2026 - 01h00 - Elemental Pre-Show
 
 == The Present ==
 
@@ -12,6 +11,8 @@ glitchwitch.fm/shows.txt
 
 == The Past ==
 
+- 11 Apr 2026 - 01h00 - just rite
+- 10 Apr 2026 - 23h00 - Hideaway
 - 04 Apr 2026 - 02h00 - Parlour 12
 - 27 Mar 2026 - 21h00 - The Attic
 - 06 Mar 2026 - 04h00 - just rite
