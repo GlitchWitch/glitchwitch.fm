@@ -1,10 +1,6 @@
 glitchwitch.fm/shows.txt
 
 == The Future ==
-
-- 22 May 2026 - 21h00 - Tenjin (Toronto)
-- 30 May 2026 - 01h00 - Elemental Pre-Show
-
 - 04 Jun 2026 - 00h00 - IDigitalSounds x WPG <3
 - 12 June 2026 - 00h00 - Hideaway (Gather) <3
 
@@ -17,7 +13,9 @@ glitchwitch.fm/shows.txt
 - EVERY WED - 19h00 - DJ Practice & Flowjam
 
 == The Past ==
-
+- 30 May 2026 - 21h00 - Elemental Pre-Show
+- 29 May 2026 - 00h00 - Insomnia (Toronto)
+- 22 May 2026 - 21h00 - Tenjin (Toronto)
 - 17 May 2026 - 20h00 - Just hanging with heros
 - 08 May 2026 - 01h00 - Sprout Fest Bike Bash
 - 01 May 2026 - 03h00 - gabber.gay
