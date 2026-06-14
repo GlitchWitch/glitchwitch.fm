@@ -1,9 +1,7 @@
 glitchwitch.fm/shows.txt
 
 == The Future ==
-- 04 Jun 2026 - 22h00 - IDigitalSounds x WPG <3
-- 12 June 2026 - 00h00 - Hideaway (Gather) <3
-- 19 June 2026 - 02h00 - just rite
+- 20 June 2026 - 02h00 - otto
 
 - 31 Jul 2026 - ??h?? - Elemental Festival
 - 01 Aug 2026 - ??h?? - Elemental Festival
@@ -14,6 +12,9 @@ glitchwitch.fm/shows.txt
 - EVERY WED - 19h00 - DJ Practice & Flowjam
 
 == The Past ==
+- 04 Jun 2026 - 22h00 - IDigitalSounds x WPG <3
+
+- 12 June 2026 - 00h00 - Hideaway (Gather) <3
 - 30 May 2026 - 21h00 - Elemental Pre-Show
 - 29 May 2026 - 00h00 - Insomnia (Toronto)
 - 22 May 2026 - 21h00 - Tenjin (Toronto)
