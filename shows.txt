@@ -1,7 +1,6 @@
 glitchwitch.fm/shows.txt
 
 == The Future ==
-- 02 Oct 2026 - 01h00 - Unbridled
 - 31 Oct 2026 - 02h00 - Hideaway
 
 == The Present ==
@@ -9,6 +8,7 @@ glitchwitch.fm/shows.txt
 - EVERY WED - 19h00 - DJ Practice & Flowjam
 
 == The Past ==
+- 02 Oct 2026 - 01h00 - Unbridled
 - 26 Sep 2026 - 02h00 - NoTheme Nuit Blanche
 - 09 Sep 2026 - ??h?? - Mango Fest
 - 06 Sep 2026 - 01h00 - Stoney Ridge Mud Bog
