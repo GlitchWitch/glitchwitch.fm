@@ -1,8 +1,8 @@
 glitchwitch.fm/shows.txt
 
 == The Future ==
-- 12 Dec 2026 - ??h?? - Hideaway AP (TBD) <3
-- 26 Dec 2026 - ??h?? - JunctionX
+- 26 Dec 2026 - ??h?? - JunctionX (XCESS)
+- 26 Dec 2026 - ??h?? - Hideaway AP (Thermal) <3
 - 09 Jan 2027 - ??h?? - The Albert
 
 == The Present ==
@@ -42,7 +42,7 @@ glitchwitch.fm/shows.txt
 - 06 Feb 2026 - 23h00 - Femme First Fridays <3
 - 30 Jan 2026 - 05h00 - just rite
 - 30 Jan 2026 - 21h30 - Sprout Fest Winter Glow
-- 24 Jan 2026 - 01h00 - JunctionX After Party <3
+- 24 Jan 2026 - 01h00 - JunctionX AP (PARALLAX) <3
 - 16 Jan 2026 - 22h00 - The Attic <3
 - 05 Dec 2025 - 01h00 - Apothecary Afters <3
 
